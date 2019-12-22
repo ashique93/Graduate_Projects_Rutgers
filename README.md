@@ -1,2 +1,1 @@
-# Graduate_Projects_Rutgers
-It contains all the academic projects on which I have worked on during pursuing a Masters in Information Technology and Analytics from Rutgers University
+Designed the IT strategy for Dominos under the guidance of Dr. Cherif Amirat (IEEE CIO). Analyzed the business strategy and prepared a comprehensive IT strategy document
